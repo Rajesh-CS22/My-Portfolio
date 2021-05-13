@@ -173,7 +173,7 @@ section .title::after{
     background-attachment: fixed;
     font-family: 'Ubuntu', sans-serif;
 }
-@media (min-width: 200px) and (max-width: 800px)
+@media (min-width: 100px) and (max-width: 1000px)
 {
     .home{
         display: flex;
